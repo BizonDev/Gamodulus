@@ -1,0 +1,14 @@
+╔═══════════╗
+║ GAMODULUS ║
+╚═══════════╝
+
+- Welcome to Gamodulus !
+
+  I am preparing your repositories for you <3
+  I will explain to you what is gamodulus :
+
+  Gamodulus is an open source project where people can make a game
+  and you can install it and play... Yeah... Another launcher...
+  BUT all games in Gamodulus can have Modulos (basically a mod) so you
+  can enjoy the game even more ! A game can have multiple Modulos BUT a Modulo
+  can work on multiple games ! This is the Gamodulus community, Enjoy !
