@@ -6,8 +6,8 @@ Oh no ! File not found !
 
  - Welcome to Gamodulus !
 
-   If you see me, this is because I can't find a game in your game repository :
+   If you see me, this is because I can't find {game_to_load} in your game repository :
    {game_repo}
 
-   You can install a game here ! and you can also add Modulos in your modulo repository :
+   You can also add Modulos in your modulo repository :
    {modulo_repo}
